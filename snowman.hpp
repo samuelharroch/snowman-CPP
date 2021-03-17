@@ -1,7 +1,6 @@
 #include <string>
 
-using namespace std;
 
 namespace ariel {
-    string snowman(long serial_number);
+    std::string snowman(long serial_number);
 }
